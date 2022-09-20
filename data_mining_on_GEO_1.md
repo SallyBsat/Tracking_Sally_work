@@ -1,6 +1,8 @@
 # ChipSeq data mining of Polycomb factors on GEO
 ## AIM
 
+THIS IS A TEST FOR SALLY
+
 #### Meeting on 24/06/2022
 check for different ChipSeq datasets of polycomb factors RING1B, SUZ12, EZH1/2, EED, RYBP and the histone modiffication associated to them. Compare their ChipSeq profile across different tumor cell lines and check if there are any changes. Record the (GSE nb), (paper), and (SRA nb). (only huaman cancer cell line)
 
