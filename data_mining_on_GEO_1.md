@@ -320,7 +320,7 @@ CBX?
 
 - Make list/file/repo/whatever that has the following information:
 	1) Protein/Modification ChiPped
-	2) How many ChIPseq experiments there are for each protein/Modification
+	2) How many *DIFFERENT* ChIPseq experiments there are for each protein/Modification
 	3) How many *DIFFERENT* cancer cell line do we have? What are those?
 	4) How many cancer cell line are for each Protein/Modification ?
 
