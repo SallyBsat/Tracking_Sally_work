@@ -147,11 +147,16 @@ SRA
 
 ==Genome-wide maps of PRC2 complex components and chromatin states in prostate cancer cell lines
 
+Paper [EZH2 Oncogenic Activity in Castration-Resistant Prostate Cancer Cells Is Polycomb-Independent](https://www.science.org/doi/10.1126/science.1227604?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+
 **[GSE39459](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39459)**
 
 SRA
 
 **[SRP014457](https://www.ncbi.nlm.nih.gov/sra?term=SRP014457)**
+
+
+
 
 #### Comments
 
@@ -220,7 +225,7 @@ EZH2 is a potential therapeutic target for H3K27M mutant paediatric gliomas [ChI
 
 This SuperSeries is composed of the following SubSeries: (==data on geo only, no paper)
 
- 
+
 **[GSE39452](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39452)**
 
 ==Expression data of EZH2-dependent genes in prostate cancer cell lines 
