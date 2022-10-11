@@ -10,14 +10,14 @@ TO DO LIST
 
 
 #### 1) The proteins and histone modifications being ChIPed are: (8 in total)
--RING1B
--RING1A
--CBX7
--H2AK119ub1/H2Aub1 (monoubiquitination)
--H3K27me3(trimethylation) and trimethylation of H3K27M (H3K27 mutant)
--EZH2
--SUZ12
--EED
+-RING1B  
+-RING1A  
+-CBX7  
+-H2AK119ub1/H2Aub1 (monoubiquitination)  
+-H3K27me3(trimethylation) and trimethylation of H3K27M (H3K27 mutant)  
+-EZH2  
+-SUZ12  
+-EED  
 
 #### 2) **DIFFERENT** ChIPseq experiments for each protein and histone modification being ChIPed:
 
