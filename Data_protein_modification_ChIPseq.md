@@ -21,25 +21,25 @@ TO DO LIST
 
 ## 2) **DIFFERENT** ChIPseq experiments for each protein and histone modification being ChIPed:
 
-**There are 6 different ChIP experiments for RING1B**  
+**There are 6 different ChIP experiments for RING1B**:      
 paper 1 -> 2 ChIPs  
 paper 2 -> 1 ChIP  
 paper 4 -> 2 ChIPs  
 paper 9 ->  1 ChIP  
 Total -> 6 ChIPs  
 
-**There is 1  ChIP experiment for RING1A**  
+**There is 1  ChIP experiment for RING1A**:    
 paper 9 -> 1 ChIP  
 
-**There is 1  ChIP experiment for CBX7**  
+**There is 1  ChIP experiment for CBX7**:    
 paper 1 -> 1 ChIP  
 
-**There are 3 different ChIP experiments for H2A119ub1**  
+**There are 3 different ChIP experiments for H2A119ub1**:    
  paper 1 -> 1 ChIP  
  paper 4 -> 2 ChIPs  
  Total -> 3 ChIPs  
 
-**There are 14 different ChIP experiments for H3k27me3**  
+**There are 14 different ChIP experiments for H3k27me3**:    
 paper 3 -> 4 ChIPs (H3K27M)  
 paper 4 -> 2 ChIPs  
 paper 5 -> 1 ChIP  
@@ -49,20 +49,20 @@ paper 8 -> 2 ChIPs
 paper 9 -> 1 ChIP  
 Total -> 14 ChIPs  
 
-**There are 5 different ChIP experiments for EZH2**  
+**There are 5 different ChIP experiments for EZH2**:    
 paper 5 -> 2 ChIPs  
 paper 6 -> 1 ChIP  
 paper 8 -> 2 ChIPs  
 Total -> 5 ChIPs  
 
-**There are 5 different ChIP experiments for SUZ12**     
+**There are 5 different ChIP experiments for SUZ12**:       
 paper 5 -> 1 ChIP  
 paper 6 -> 1 ChIP  
 paper 7 -> 1 ChIP  
 paper 8 -> 2 ChIPs  
 Total -> 5 ChIPs  
 
-**There are 2 different ChIP experiments for EED**  
+**There are 2 different ChIP experiments for EED**:    
 paper 5 -> 1 ChIP  
 paper 9 -> 1 ChIP  
 Total -> 2 ChIPs  
@@ -107,7 +107,7 @@ Total -> 2 ChIPs
 ***3 Different Cancer cell lines:*** 
 - A673 -> ***Paper 1*** 
 - T47D -> ***Paper 2, 4***  
-- MDA-MB-231 -> ***Paper 4***  .
+- MDA-MB-231 -> ***Paper 4***   
 - DU145 -> ***Paper 9*** 
 
 #### ***RING1A*** :
