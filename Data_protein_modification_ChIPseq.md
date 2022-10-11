@@ -202,11 +202,11 @@ cell type: Ewing sarcoma cell line
 
 ### [2-Estrogen induces dynamic ERa and RING1B recruitment to control gene and enhancer activities in luminal breast cancer](https://www.science.org/doi/10.1126/sciadv.aaz7249?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
-[GSE137579](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137579)
+[GSE137579](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137579) 
 [SRP222047](https://www.ncbi.nlm.nih.gov/sra?term=SRP222047)  
 
 **Organism:**  
-Homo sapiens  
+Homo sapiens.  
 
 **Characteristics:**  
 cell line: T47D     
