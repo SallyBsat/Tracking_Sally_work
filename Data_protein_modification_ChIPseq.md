@@ -9,7 +9,7 @@ TO DO LIST
 	4) How many cancer cell line are for each Protein/Modification ?
 
 
-#### 1) The proteins and histone modifications being ChIPed are: (8 in total)
+## 1) The proteins and histone modifications being ChIPed are: (8 in total)
 - RING1B  
 - RING1A  
 - CBX7  
@@ -19,57 +19,57 @@ TO DO LIST
 - SUZ12  
 - EED  
 
-#### 2) **DIFFERENT** ChIPseq experiments for each protein and histone modification being ChIPed:
+## 2) **DIFFERENT** ChIPseq experiments for each protein and histone modification being ChIPed:
 
 **There are 6 different ChIP experiments for RING1B**  
--RING1B : paper 1 -> 2 ChIPs  
-                  paper 2 -> 1 ChIP  
-                  paper 4 -> 2 ChIPs  
-                  paper 9 ->  1 ChIP  
-                  Total -> 6 ChIPs  
+paper 1 -> 2 ChIPs  
+paper 2 -> 1 ChIP  
+paper 4 -> 2 ChIPs  
+paper 9 ->  1 ChIP  
+Total -> 6 ChIPs  
 
 **There is 1  ChIP experiment for RING1A**  
--RING1A : paper 9 -> 1 ChIP  
+paper 9 -> 1 ChIP  
 
 **There is 1  ChIP experiment for CBX7**  
--CBX7 : paper 1 -> 1 ChIP  
+paper 1 -> 1 ChIP  
 
 **There are 3 different ChIP experiments for H2A119ub1**  
--H2AK119ub1 : paper 1 -> 1 ChIP  
-                           paper 4 -> 2 ChIPs  
-                           Total -> 3 ChIPs  
+ paper 1 -> 1 ChIP  
+ paper 4 -> 2 ChIPs  
+ Total -> 3 ChIPs  
 
 **There are 14 different ChIP experiments for H3k27me3**  
--H3K27me3 : paper 3 -> 4 ChIPs (H3K27M)  
-                         paper 4 -> 2 ChIPs  
-                         paper 5 -> 1 ChIP  
-                         paper 6 -> 1 ChIP  
-                         paper 7 -> 3 ChIPs  
-                         paper 8 -> 2 ChIPs  
-                         paper 9 -> 1 ChIP  
-                         Total -> 14 ChIPs  
+paper 3 -> 4 ChIPs (H3K27M)  
+paper 4 -> 2 ChIPs  
+paper 5 -> 1 ChIP  
+paper 6 -> 1 ChIP  
+paper 7 -> 3 ChIPs  
+paper 8 -> 2 ChIPs  
+paper 9 -> 1 ChIP  
+Total -> 14 ChIPs  
 
 **There are 5 different ChIP experiments for EZH2**  
--EZH2: paper 5 -> 2 ChIPs  
-              paper 6 -> 1 ChIP  
-              paper 8 -> 2 ChIPs  
-              Total -> 5 ChIPs  
+paper 5 -> 2 ChIPs  
+paper 6 -> 1 ChIP  
+paper 8 -> 2 ChIPs  
+Total -> 5 ChIPs  
 
-**There are 5 different ChIP experiments for SUZ12**  
--SUZ12: paper 5 -> 1 ChIP  
-                paper 6 -> 1 ChIP  
-                paper 7 -> 1 ChIP  
-                paper 8 -> 2 ChIPs  
-                Total -> 5 ChIPs  
+**There are 5 different ChIP experiments for SUZ12**     
+paper 5 -> 1 ChIP  
+paper 6 -> 1 ChIP  
+paper 7 -> 1 ChIP  
+paper 8 -> 2 ChIPs  
+Total -> 5 ChIPs  
 
 **There are 2 different ChIP experiments for EED**  
--EED: paper 5 -> 1 ChIP  
-           paper 9 -> 1 ChIP  
-           Total -> 2 ChIPs  
+paper 5 -> 1 ChIP  
+paper 9 -> 1 ChIP  
+Total -> 2 ChIPs  
 
 
-#### 3) Total cancer cell lines  
-***15 Different Cancer cell lines:*** 
+## 3) Total cancer cell lines  
+#### ***15 Different Cancer cell lines:*** 
 - A673  
 - DIPG007  
 - DIPG012  
@@ -100,9 +100,9 @@ TO DO LIST
 -LNCaP cell line, prostate cancer cells with androgen-dependent genotype  
 
 
-#### 4) **DIFFERENT** cancer cell lines for each protein and histone modification being ChIPed.
+## 4) **DIFFERENT** cancer cell lines for each protein and histone modification being ChIPed.
 
-##### ***RING1B*** :
+#### ***RING1B*** :
 
 ***3 Different Cancer cell lines:*** 
 - A673 -> ***Paper 1*** 
@@ -110,16 +110,25 @@ TO DO LIST
 - MDA-MB-231 -> ***Paper 4***  .
 - DU145 -> ***Paper 9*** 
 
-##### ***RING1A*** :
+#### ***RING1A*** :
 
 ***1  Cancer cell line:*** 
 - DU145 -> ***Paper 9*** 
 
-##### ***CBX7*** :
+#### ***CBX7*** :
 
 ***1  Cancer cell line:*** 
 - A673 -> ***Paper 1*** 
 
+#### **H2AK119ub1** :  
+
+***3 Different Cancer cell lines:***
+- A673 -> ***Paper 1*** 
+- MDA-MB-231 -> ***Paper 4***
+- T47D -> ***Paper 4***
+
+
+#### **H3k27me3** :  
 ***13 Different Cancer cell lines:*** 
 - DIPG007 -> ***Paper 3*** 
 - DIPG012 -> ***Paper 3*** 
@@ -135,7 +144,7 @@ TO DO LIST
 - LNCaP-abl (abl) -> ***Paper 8*** 
 - LNCaP -> ***Paper 8*** 
 
-##### ***EZH2*** :
+#### ***EZH2*** :
 
 ***5 Different Cancer cell lines:*** 
 - 16D -> ***Paper 5*** 
@@ -144,7 +153,7 @@ TO DO LIST
 - LNCaP-abl (abl) -> ***Paper 8*** 
 - LNCaP -> ***Paper 8***
 
-##### ***SUZ12*** :
+#### ***SUZ12*** :
 
 ***5 Different Cancer cell lines:*** 
 - 42D -> ***Paper 5*** 
@@ -153,16 +162,16 @@ TO DO LIST
 - LNCaP-abl (abl) -> ***Paper 8*** 
 - LNCaP -> ***Paper 8*** 
 
-##### ***EED*** :
+#### ***EED*** :
 
 ***2 Different Cancer cell lines:*** 
 - 42D -> ***Paper 5*** 
 - DU145 -> ***Paper 9***
 
 
-#### List of Papers:
+## List of Papers:
 
-##### [1-RING1B recruits EWSR1-FLI1 and cooperates in the remodelling of chromatin necessary for Ewing sarcoma tumorigenesis](https://www.science.org/doi/10.1126/sciadv.aba3058)
+### [1-RING1B recruits EWSR1-FLI1 and cooperates in the remodelling of chromatin necessary for Ewing sarcoma tumorigenesis](https://www.science.org/doi/10.1126/sciadv.aba3058)
 
 [GSE131286](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131286)   
 [SRP198531](https://www.ncbi.nlm.nih.gov/sra?term=SRP198531)  
@@ -191,7 +200,7 @@ cell type: Ewing sarcoma cell line
 **H2Aub1 (H2A119ub)**  
 
 
-##### [2-Estrogen induces dynamic ERa and RING1B recruitment to control gene and enhancer activities in luminal breast cancer](https://www.science.org/doi/10.1126/sciadv.aaz7249?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+### [2-Estrogen induces dynamic ERa and RING1B recruitment to control gene and enhancer activities in luminal breast cancer](https://www.science.org/doi/10.1126/sciadv.aaz7249?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
 [GSE137579](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137579)
 [SRP222047](https://www.ncbi.nlm.nih.gov/sra?term=SRP222047)  
@@ -210,7 +219,7 @@ cell type: Mammary gland ductal carcarcinoma epithelial cells derived from metas
 
 
 
-##### [3-EZH2 is a potential therapeutic target for H3K27M-mutant pediatric gliomas](https://www.nature.com/articles/nm.4293)
+### [3-EZH2 is a potential therapeutic target for H3K27M-mutant pediatric gliomas](https://www.nature.com/articles/nm.4293)
 
 
 [GSE85387](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85387)  
@@ -235,7 +244,7 @@ DIPG012 was obtained from a biopsy in boy with anaplastic astrocytoma.**
 -SF7761 DMSO me3 (tumor sample: SF7761)  
 -SF8628 DMSO me3 (tumor sample: SF8628)  
 
-##### [4-Polycomb complexes associate with enhancers and promote oncogenic transcriptional programs in cancer through multiple mechanisms](https://www.nature.com/articles/s41467-018-05728-x)
+### [4-Polycomb complexes associate with enhancers and promote oncogenic transcriptional programs in cancer through multiple mechanisms](https://www.nature.com/articles/s41467-018-05728-x)
 
 [GSE107176](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107176)  
 [SRP125328](https://www.ncbi.nlm.nih.gov/sra?term=SRP125328)  
@@ -262,7 +271,7 @@ cell type: Mammary gland ductal carcarcinoma epithelial cells derived from metas
 -T47D_H2AK119ub1_ChIP-seq  
 
 
-##### [5-An androgen receptor switch underlies lineage infidelity to drive neuroendocrine prostate cancer](https://www.nature.com/articles/s41556-021-00743-5)
+### [5-An androgen receptor switch underlies lineage infidelity to drive neuroendocrine prostate cancer](https://www.nature.com/articles/s41556-021-00743-5)
 
 [GSE138460](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138460)  
 
@@ -303,7 +312,7 @@ The below ChIPs have same cell lines which is 42D (The first 2 ChIPs are enzalut
 -42D_SUZ12_ChIPseq  
 -42D_EED_ChIPseq  
 
-##### [6-PHF19 mediated regulation of proliferation and invasiveness in prostate cancer](https://elifesciences.org/articles/51373)
+### [6-PHF19 mediated regulation of proliferation and invasiveness in prostate cancer](https://elifesciences.org/articles/51373)
 
 [GSE135623](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135623)  
 [SRP217915](https://www.ncbi.nlm.nih.gov/sra?term=SRP217915)  
@@ -325,7 +334,7 @@ tissue: Human prostate cancer cell line
 -ChIPseq_INPUT_CTR_R2  
 
 
-##### [7-PRC2 overexpression and PRC2-target gene repression relating to poorer prognosis in small cell lung cancer ](https://www.nature.com/articles/srep01911)
+### [7-PRC2 overexpression and PRC2-target gene repression relating to poorer prognosis in small cell lung cancer ](https://www.nature.com/articles/srep01911)
 
 [GSE99312](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE99312)  
 [SRP108057](https://www.ncbi.nlm.nih.gov/sra?term=SRP108057)  
@@ -359,7 +368,7 @@ cell type: Small cell lung cancer cell line
 -Lu130_Suz12_ChIPSeq  
 
 
-##### [8-EZH2 Oncogenic Activity in Castration-Resistant Prostate Cancer Cells Is Polycomb-Independent](https://www.science.org/doi/10.1126/science.1227604?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+### [8-EZH2 Oncogenic Activity in Castration-Resistant Prostate Cancer Cells Is Polycomb-Independent](https://www.science.org/doi/10.1126/science.1227604?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
 
 [GSE39459](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39459)  
@@ -388,7 +397,7 @@ genotype/variation: androgen-dependent prostate cancer cells
 
 
 
-##### [9-The Central Role of EED in the Orchestration of Polycomb Group Complexes](https://www.nature.com/articles/ncomms4127)
+### [9-The Central Role of EED in the Orchestration of Polycomb Group Complexes](https://www.nature.com/articles/ncomms4127)
 
 [GSE42566](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42566)  
 [SRP017337](https://www.ncbi.nlm.nih.gov/sra?term=SRP017337)  
