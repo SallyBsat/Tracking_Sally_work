@@ -10,36 +10,36 @@ TO DO LIST
 
 
 #### 1) The proteins and histone modifications being ChIPed are: (8 in total)
--RING1B  
--RING1A  
--CBX7  
--H2AK119ub1/H2Aub1 (monoubiquitination)  
--H3K27me3(trimethylation) and trimethylation of H3K27M (H3K27 mutant)  
--EZH2  
--SUZ12  
--EED  
+- RING1B  
+- RING1A  
+- CBX7  
+- H2AK119ub1/H2Aub1 (monoubiquitination)  
+- H3K27me3(trimethylation) and trimethylation of H3K27M (H3K27 mutant)  
+- EZH2  
+- SUZ12  
+- EED  
 
 #### 2) **DIFFERENT** ChIPseq experiments for each protein and histone modification being ChIPed:
 
-**There are 6 different ChIP experiments for RING1B**
+**There are 6 different ChIP experiments for RING1B**  
 -RING1B : paper 1 -> 2 ChIPs  
                   paper 2 -> 1 ChIP  
                   paper 4 -> 2 ChIPs  
                   paper 9 ->  1 ChIP  
                   Total -> 6 ChIPs  
 
-**There is 1  ChIP experiment for RING1A**
+**There is 1  ChIP experiment for RING1A**  
 -RING1A : paper 9 -> 1 ChIP  
 
-**There is 1  ChIP experiment for CBX7**
+**There is 1  ChIP experiment for CBX7**  
 -CBX7 : paper 1 -> 1 ChIP  
 
-**There are 3 different ChIP experiments for H2A119ub1**
+**There are 3 different ChIP experiments for H2A119ub1**  
 -H2AK119ub1 : paper 1 -> 1 ChIP  
                            paper 4 -> 2 ChIPs  
                            Total -> 3 ChIPs  
 
-**There are 14 different ChIP experiments for H3k27me3**
+**There are 14 different ChIP experiments for H3k27me3**  
 -H3K27me3 : paper 3 -> 4 ChIPs (H3K27M)  
                          paper 4 -> 2 ChIPs  
                          paper 5 -> 1 ChIP  
@@ -49,42 +49,42 @@ TO DO LIST
                          paper 9 -> 1 ChIP  
                          Total -> 14 ChIPs  
 
-**There are 5 different ChIP experiments for EZH2**
+**There are 5 different ChIP experiments for EZH2**  
 -EZH2: paper 5 -> 2 ChIPs  
               paper 6 -> 1 ChIP  
               paper 8 -> 2 ChIPs  
               Total -> 5 ChIPs  
 
-**There are 5 different ChIP experiments for SUZ12**
+**There are 5 different ChIP experiments for SUZ12**  
 -SUZ12: paper 5 -> 1 ChIP  
                 paper 6 -> 1 ChIP  
                 paper 7 -> 1 ChIP  
                 paper 8 -> 2 ChIPs  
                 Total -> 5 ChIPs  
 
-**There are 2 different ChIP experiments for EED**
+**There are 2 different ChIP experiments for EED**  
 -EED: paper 5 -> 1 ChIP  
            paper 9 -> 1 ChIP  
            Total -> 2 ChIPs  
 
 
-#### 3) Total cancer cell lines
+#### 3) Total cancer cell lines  
 ***15 Different Cancer cell lines:*** 
--A673  
--DIPG007  
--DIPG012  
--SF7761  
--SF8628    
--MDA-MB-231  
--T47D  
--H209  
--DMS53  
--16D  
--42D  
--DU145  
--Lu130  
--LNCaP-abl (abl)  
--LNCaP  
+- A673  
+- DIPG007  
+- DIPG012  
+- SF7761  
+- SF8628    
+- MDA-MB-231  
+- T47D  
+- H209  
+- DMS53  
+- 16D  
+- 42D  
+- DU145  
+- Lu130  
+- LNCaP-abl (abl)  
+- LNCaP  
 
 -A673, Ewing sarcoma cell line  
 -DIPG007, DIPG012, SF7761 and SF8628 are primary DIPG tumor cell line with K27M genotype(H3K27 Mutation)  
@@ -102,7 +102,7 @@ TO DO LIST
 
 #### 4) **DIFFERENT** cancer cell lines for each protein and histone modification being ChIPed.
 
-##### **RING1B** :
+##### ***RING1B*** :
 
 ***3 Different Cancer cell lines:*** 
 - A673 -> ***Paper 1*** 
@@ -110,12 +110,12 @@ TO DO LIST
 - MDA-MB-231 -> ***Paper 4***  .
 - DU145 -> ***Paper 9*** 
 
-##### **RING1A** :
+##### ***RING1A*** :
 
 ***1  Cancer cell line:*** 
 - DU145 -> ***Paper 9*** 
 
-##### **CBX7** :
+##### ***CBX7*** :
 
 ***1  Cancer cell line:*** 
 - A673 -> ***Paper 1*** 
@@ -135,7 +135,7 @@ TO DO LIST
 - LNCaP-abl (abl) -> ***Paper 8*** 
 - LNCaP -> ***Paper 8*** 
 
-##### **EZH2** :
+##### ***EZH2*** :
 
 ***5 Different Cancer cell lines:*** 
 - 16D -> ***Paper 5*** 
@@ -144,7 +144,7 @@ TO DO LIST
 - LNCaP-abl (abl) -> ***Paper 8*** 
 - LNCaP -> ***Paper 8***
 
-##### **SUZ12** :
+##### ***SUZ12*** :
 
 ***5 Different Cancer cell lines:*** 
 - 42D -> ***Paper 5*** 
@@ -153,7 +153,7 @@ TO DO LIST
 - LNCaP-abl (abl) -> ***Paper 8*** 
 - LNCaP -> ***Paper 8*** 
 
-##### **EED** :
+##### ***EED*** :
 
 ***2 Different Cancer cell lines:*** 
 - 42D -> ***Paper 5*** 
@@ -164,10 +164,9 @@ TO DO LIST
 
 ##### [1-RING1B recruits EWSR1-FLI1 and cooperates in the remodelling of chromatin necessary for Ewing sarcoma tumorigenesis](https://www.science.org/doi/10.1126/sciadv.aba3058)
 
-**[GSE131286](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131286)** 
-**[SRP198531](https://www.ncbi.nlm.nih.gov/sra?term=SRP198531)** 
+[GSE131286](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131286)   
+[SRP198531](https://www.ncbi.nlm.nih.gov/sra?term=SRP198531)  
 
-(no input for CBX7)  
 
 **Organism:**  
 Homo sapiens  
@@ -194,8 +193,8 @@ cell type: Ewing sarcoma cell line
 
 ##### [2-Estrogen induces dynamic ERa and RING1B recruitment to control gene and enhancer activities in luminal breast cancer](https://www.science.org/doi/10.1126/sciadv.aaz7249?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
-**[GSE137579](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137579)** 
-**[SRP222047](https://www.ncbi.nlm.nih.gov/sra?term=SRP222047)**  
+[GSE137579](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137579)
+[SRP222047](https://www.ncbi.nlm.nih.gov/sra?term=SRP222047)  
 
 **Organism:**  
 Homo sapiens  
@@ -214,8 +213,8 @@ cell type: Mammary gland ductal carcarcinoma epithelial cells derived from metas
 ##### [3-EZH2 is a potential therapeutic target for H3K27M-mutant pediatric gliomas](https://www.nature.com/articles/nm.4293)
 
 
-**[GSE85387](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85387)**  
-**[SRP081171](https://www.ncbi.nlm.nih.gov/sra?term=SRP081171)** 
+[GSE85387](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85387)  
+[SRP081171](https://www.ncbi.nlm.nih.gov/sra?term=SRP081171) 
 
 **Organism:**  
 Homo sapiens  
@@ -238,8 +237,8 @@ DIPG012 was obtained from a biopsy in boy with anaplastic astrocytoma.**
 
 ##### [4-Polycomb complexes associate with enhancers and promote oncogenic transcriptional programs in cancer through multiple mechanisms](https://www.nature.com/articles/s41467-018-05728-x)
 
-**[GSE107176](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107176)**  
-**[SRP125328](https://www.ncbi.nlm.nih.gov/sra?term=SRP125328)**  
+[GSE107176](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107176)  
+[SRP125328](https://www.ncbi.nlm.nih.gov/sra?term=SRP125328)  
 
 **Organism:**  
 Homo sapiens  
@@ -265,7 +264,7 @@ cell type: Mammary gland ductal carcarcinoma epithelial cells derived from metas
 
 ##### [5-An androgen receptor switch underlies lineage infidelity to drive neuroendocrine prostate cancer](https://www.nature.com/articles/s41556-021-00743-5)
 
-**[GSE138460](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138460)**  
+[GSE138460](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138460)  
 
 
 **Organism:**  
@@ -306,8 +305,8 @@ The below ChIPs have same cell lines which is 42D (The first 2 ChIPs are enzalut
 
 ##### [6-PHF19 mediated regulation of proliferation and invasiveness in prostate cancer](https://elifesciences.org/articles/51373)
 
-**[GSE135623](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135623)**  
-**[SRP217915](https://www.ncbi.nlm.nih.gov/sra?term=SRP217915)**  
+[GSE135623](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135623)  
+[SRP217915](https://www.ncbi.nlm.nih.gov/sra?term=SRP217915)  
 
 **Organism:**  
 Homo sapiens  
@@ -328,8 +327,8 @@ tissue: Human prostate cancer cell line
 
 ##### [7-PRC2 overexpression and PRC2-target gene repression relating to poorer prognosis in small cell lung cancer ](https://www.nature.com/articles/srep01911)
 
-**[GSE99312](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE99312)**  
-**[SRP108057](https://www.ncbi.nlm.nih.gov/sra?term=SRP108057)**  
+[GSE99312](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE99312)  
+[SRP108057](https://www.ncbi.nlm.nih.gov/sra?term=SRP108057)  
 
 
 **Organism:**  
@@ -363,8 +362,8 @@ cell type: Small cell lung cancer cell line
 ##### [8-EZH2 Oncogenic Activity in Castration-Resistant Prostate Cancer Cells Is Polycomb-Independent](https://www.science.org/doi/10.1126/science.1227604?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
 
-**[GSE39459](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39459)**  
-**[SRP014457](https://www.ncbi.nlm.nih.gov/sra?term=SRP014457)**  
+[GSE39459](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39459)  
+[SRP014457](https://www.ncbi.nlm.nih.gov/sra?term=SRP014457)  
 
 **Organism:**  
 Homo sapiens  
@@ -391,8 +390,8 @@ genotype/variation: androgen-dependent prostate cancer cells
 
 ##### [9-The Central Role of EED in the Orchestration of Polycomb Group Complexes](https://www.nature.com/articles/ncomms4127)
 
-**[GSE42566](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42566)**  
-**[SRP017337](https://www.ncbi.nlm.nih.gov/sra?term=SRP017337)**  
+[GSE42566](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42566)  
+[SRP017337](https://www.ncbi.nlm.nih.gov/sra?term=SRP017337)  
 
 
 **Organism:**  
